@@ -1,0 +1,12 @@
+/* frontend/miniprogram/pages/home/home.wxss */
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .welcome-text {
+    font-size: 24px;
+    color: #333333;
+  }

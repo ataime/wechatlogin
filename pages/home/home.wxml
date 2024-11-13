@@ -1,0 +1,4 @@
+<!-- frontend/miniprogram/pages/home/home.wxml -->
+<view class="container">
+  <text class="welcome-text">欢迎您！</text>
+</view>

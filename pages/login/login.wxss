@@ -1,0 +1,18 @@
+/* frontend/miniprogram/pages/login/login.wxss */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .login-button {
+    width: 300px;
+    height: 50px;
+    background-color: #1aad19;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+  }

@@ -1,0 +1,4 @@
+<!-- frontend/miniprogram/pages/login/login.wxml -->
+<view class="container">
+  <button class="login-button" open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">使用手机号登录</button>
+</view>
